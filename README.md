@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ann Nyaboe, aka @nyakwarnyanya
+- 👋 Hi, I’m anyaboe, aka @nyakwarnyanya
 - 👀 I’m interested in Clinical Research, Data VisuaLization / Analysis
 - 🌱 I’m currently learning more programming in R, SAS, as well visualization in Tableau.
 - 💞️ I’m looking for a full time Statistician | Biostatistician | Data Analyst opportunity in the area of research, preferrably in Clinical Trial and Medical and Drug Development.
