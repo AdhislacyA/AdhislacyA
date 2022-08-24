@@ -1,4 +1,4 @@
-- 👋 Hello, I am Adhislacy
+- 👋 Hello, I am Ann
 - 👀 Clinical Research, Data VisuaLization / Analysis
 - 🌱 Experience with R, SAS, Microsoft Power BI, as well visualization in Tableau, and still learning. Eager to expand my knowledge.
 - 
