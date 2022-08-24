@@ -1,6 +1,6 @@
 - 👋 Hello, I am Adhislacy
 - 👀 Clinical Research, Data VisuaLization / Analysis
-- 🌱 I’m currently learning more programming in R, SAS, as well visualization in Tableau.
+- 🌱 Experience with R, SAS, Microsoft Power BI, as well visualization in Tableau, and still learning. Eager to expand my knowledge.
 - 
 - 📫 Let's connect via [LinkedIn](https://www.linkedin.com/in/anyaboe/)
 
