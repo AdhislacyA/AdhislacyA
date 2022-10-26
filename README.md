@@ -1,6 +1,6 @@
 - 👋 Hello, I am Ann
 - 👀 SAS Programmer | Research | Data Analyst | Data VisuaLization | Analysis
-- 🌱 Experience with R, SAS, Microsoft Power BI, as well visualization in Tableau, and SQL.
+- 🌱 Experience with SAS, Microsoft Power BI, as well visualization in Tableau, R and SQL.
 -    Eager to expand my knowledge.
 - 
 - 📫 Let's connect via [LinkedIn](https://www.linkedin.com/in/anyaboemark)
